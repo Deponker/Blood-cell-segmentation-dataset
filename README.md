@@ -1,2 +1,2 @@
 # Blood-cell-segmentation-data
-Original blood cell images with corresponding ground truths 
+2656 images are avilable. 1328 Original blood cell images with 1328 corresponding ground truths.
