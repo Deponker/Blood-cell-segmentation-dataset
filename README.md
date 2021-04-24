@@ -3,3 +3,5 @@
 
 Sample images are provide below.
 
+![Original Image](https://github.com/Deponker/Blood-cell-segmentation-data/blob/main/Original.png)
+
